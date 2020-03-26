@@ -1,5 +1,7 @@
 <?php
- 	echo "Ola Mundo";
+ 	echo "Ola Mundo, Manaus";
+
+echo "Ariel Sharon";
 
  	echo "456 -udemy";
 
